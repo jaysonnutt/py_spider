@@ -4,7 +4,6 @@ A simple multithreaded web-crawler used for mapping websites. It gathers togethe
 
 Usage
 ===
----
 In terminal: `python3 main.py`
 
 The program will ask for a project name. Provide it with the name of the directory that you want the text file stored in.
